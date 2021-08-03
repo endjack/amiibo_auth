@@ -1,0 +1,1 @@
+# amiibo_auth
